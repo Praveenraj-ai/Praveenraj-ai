@@ -1,4 +1,4 @@
-# Hi, I'm Praveen Raj 👋
+Hi, I'm Praveen Raj 👋
 
 AI Evaluator | LLM Trainer | Data Quality Enthusiast
 
