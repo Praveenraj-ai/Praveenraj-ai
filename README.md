@@ -6,6 +6,33 @@ MCA graduate with professional experience at Amazon, developing expertise in AI 
 
 I enjoy analysing AI-generated responses, identifying factual errors, evaluating quality, and applying structured evaluation criteria.
 
+
+## 🧠 Technical Skills & Expertise
+
+- AI Response Evaluation
+- LLM Quality Assessment
+- Natural Language Processing (NLP)
+- RLHF Concepts
+- Data Quality Assessment
+- Prompt Evaluation
+- Factual Accuracy Analysis
+- Human Feedback Workflows
+
+## 💻 Programming & Technical Knowledge
+
+- Python – Working knowledge
+- SQL – Working knowledge
+- Data Analysis – Conceptual understanding
+- Programming – Can develop and debug code with guidance
+
+## 🎯 Currently Learning
+
+- Advanced LLM Evaluation
+- NLP Techniques
+- RLHF Methodologies
+- Python Programming Practice
+- SQL Query Development
+
 🌐 Portfolio: "Visit My Website" (https://praveenraj-ai-portfolio.netlify.app)
 
 📂 Projects: "Explore My AI Evaluation Projects" (https://github.com/Praveenraj-ai/ai-evaluation-portfolio)
