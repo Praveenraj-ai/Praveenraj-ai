@@ -1,66 +1,66 @@
-#Hi, I'm Praveen Raj 👋
+# Hi, I'm Praveen Raj 👋
 
 AI Evaluator | LLM Trainer | Data Quality Enthusiast
 
-I'm an MCA graduate with professional experience at Amazon, currently building expertise in AI evaluation, Large Language Models (LLMs), human feedback, and NLP.
+MCA graduate with professional experience at Amazon, developing expertise in AI evaluation, LLM response quality, data quality assessment, and human feedback workflows.
 
-I enjoy analysing AI-generated responses, identifying quality gaps, evaluating accuracy, and developing structured evaluation approaches.
+I enjoy analysing AI-generated responses, identifying factual errors, evaluating quality, and applying structured evaluation criteria.
 
-🌐 Portfolio: "praveenraj-ai-portfolio.netlify.app" (https://praveenraj-ai-portfolio.netlify.app)
+🌐 Portfolio: "Visit My Website" (https://praveenraj-ai-portfolio.netlify.app)
+
+📂 Projects: "Explore My AI Evaluation Projects" (https://github.com/Praveenraj-ai/ai-evaluation-portfolio)
+
+💼 GitHub: "Praveenraj-ai" (https://github.com/Praveenraj-ai)
 
 ---
 
-🚀 Areas of Focus
+🎯 Areas of Focus
 
-- LLM Evaluation: Response accuracy, relevance, completeness, and quality assessment.
-- Human Feedback: Comparative response evaluation and preference ranking.
-- Evaluation Rubrics: Structured scoring criteria and quality frameworks.
-- NLP: Text analysis and customer feedback exploration.
-- Data Quality: Accuracy checks, consistency, and analytical review.
-
-🧪 Featured Projects
-
-My portfolio includes practical learning and simulated evaluation exercises.
-
-Project| Description
-LLM Response Evaluation| Comparing AI responses using quality criteria
-AI Preference Evaluation| Human preference ranking and comparative analysis
-AI Quality Rubrics| Structured evaluation criteria and scoring
-NLP Feedback Analysis| Exploring text analysis workflows
-
-Practice projects are identified as simulated work, not commercial client engagements.
+- LLM Response Evaluation
+- AI Output Quality Assessment
+- Hallucination Detection
+- Human Feedback and Preference Ranking
+- Data Quality Assessment
+- Evaluation Rubrics and Scoring
 
 🛠️ Skills & Learning
 
-- AI response evaluation
-- Comparative analysis
-- Quality assessment
-- Data analysis
-- NLP fundamentals
-- Prompt engineering
-- RLHF fundamentals
+Current focus:
 
-Currently learning: Python for NLP, LLM evaluation methodologies, and human feedback systems.
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Reinforcement Learning from Human Feedback (RLHF)
+- Python for Data Analysis and NLP
+- AI Training and Evaluation Methodologies
+
+🚀 Featured Projects
+
+Project| Description
+AI Response Evaluation| Comparing and scoring AI-generated responses
+Product Data Quality| Identifying inaccurate and inconsistent product data
+Hallucination Detection| Checking AI claims against reference information
+
+"View all project files and workbooks →" (https://github.com/Praveenraj-ai/ai-evaluation-portfolio)
+
+These are self-directed practice projects using fictional or exercise-based scenarios.
 
 🎓 Education
 
-Master of Computer Applications (MCA)
-
-Hindustan College of Arts and Science, Coimbatore
-
-Bachelor of Computer Applications (BCA)
-
-Bharathiar University
+- MCA – Hindustan College of Arts and Science
+- BCA – Bharathiar University Arts and Science College
 
 💼 Professional Background
 
-Professional experience at Amazon, with exposure to structured workflows, quality-focused operations, analytical review, and process improvement.
+Amazon | Corporate Experience
 
-📫 Let's Connect
+Experience in structured operations, quality-focused processes, and performance-driven work environments.
 
-- Portfolio: "Visit my website" (https://praveenraj-ai-portfolio.netlify.app)
-- GitHub: "@Praveenraj-ai" (https://github.com/Praveenraj-ai)
+📫 Connect With Me
+
+- Portfolio: "praveenraj-ai-portfolio.netlify.app" (https://praveenraj-ai-portfolio.netlify.app)
+- GitHub: "github.com/Praveenraj-ai" (https://github.com/Praveenraj-ai)
+- Email: mail2praveenrj1235@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile! I'm continuously learning, building, and exploring ways to improve AI quality through human evaluation.
+Interested in opportunities in AI evaluation, LLM training, and data quality.
