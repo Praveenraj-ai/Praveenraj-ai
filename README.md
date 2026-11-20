@@ -55,11 +55,11 @@ Amazon | Corporate Experience
 
 Experience in structured operations, quality-focused processes, and performance-driven work environments.
 
-📫 Connect With Me
+## 📬 Connect With Me
 
-- Portfolio: "praveenraj-ai-portfolio.netlify.app" (https://praveenraj-ai-portfolio.netlify.app)
-- GitHub: "github.com/Praveenraj-ai" (https://github.com/Praveenraj-ai)
-- Email: mail2praveenrj1235@gmail.com
+- 🌐 **Portfolio:** [Visit My Website](https://praveenraj-ai-portfolio.netlify.app)
+- 💻 **GitHub:** [Praveenraj-ai](https://github.com/Praveenraj-ai)
+- 📧 **Email:** [mail2praveenrj1235@gmail.com](mailto:mail2praveenrj1235@gmail.com)
 
 ---
 
