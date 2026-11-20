@@ -1,4 +1,4 @@
-# Hi, I'm Praveen Raj👋
+# Hi, I'm PraveenRaj 👋
 
 AI Evaluator | LLM Trainer | Data Quality Enthusiast
 
@@ -59,7 +59,7 @@ Experience in structured operations, quality-focused processes, and performance-
 
 - 🌐 **Portfolio:** [Visit My Website](https://praveenraj-ai-portfolio.netlify.app)
 - 💻 **GitHub:** [Praveenraj-ai](https://github.com/Praveenraj-ai)
-- 📧 **Email:**[mail2praveenrj1235@gmail.com](mailto:mail2praveenrj1235@gmail.com)
+- 📧 **Email:** [mail2praveenrj1235@gmail.com](mailto:mail2praveenrj1235@gmail.com)
 
 ---
 
