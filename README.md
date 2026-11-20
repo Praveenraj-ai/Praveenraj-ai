@@ -64,4 +64,3 @@ Professional experience at Amazon, with exposure to structured workflows, qualit
 ---
 
 ⭐ Thanks for visiting my profile! I'm continuously learning, building, and exploring ways to improve AI quality through human evaluation.
--->
